@@ -9,10 +9,10 @@
     <meta name="author" content="">
     <link rel="icon" href="images/github-icon.png">
 
-    <title>Login | Inventario</title>
-    <link href="docs/css/bootstrap.min.css" rel="stylesheet">
-    <link href="docs/css/signin.css" rel="stylesheet">
-    <script src="docs/js/ie-emulation-modes-warning.js"></script>
+    <title>Producto | Inventario</title>
+    <link href="../../docs/css/bootstrap.min.css" rel="stylesheet">
+    <link href="../../docs/css/signin.css" rel="stylesheet">
+    <script src="../../docs/js/ie-emulation-modes-warning.js"></script>
 <body>
     <div class="container">
 	</div>
