@@ -5,7 +5,7 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="icon" href="../../favicon.ico">
+    <link rel="icon" href="images/github-icon.png">
 
     <title>Login | Inventario</title>
     <link href="docs/css/bootstrap.min.css" rel="stylesheet">
@@ -16,7 +16,7 @@
       <form class="form-signin">
         <h2 class="form-signin-heading">Entre su cuenta</h2>
         <label for="inputEmail" class="sr-only">Usuario</label>
-        <input type="email" id="inputEmail" class="form-control" placeholder="Usuario" required="" autofocus="">
+        <input type="text" id="inputEmail" class="form-control" placeholder="Usuario" required="" autofocus="">
         <label for="inputPassword" class="sr-only">Clave</label>
         <input type="password" id="inputPassword" class="form-control" placeholder="Clave" required="">
         <div class="checkbox">
